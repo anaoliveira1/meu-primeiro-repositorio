@@ -1,3 +1,3 @@
 # meu-primeiro-repositorio
 
-## primaira aula da reprograma
+## primeira aula da reprograma
